@@ -1,0 +1,9 @@
+cv_id,jd_id,tfidf_score,bge_score,e5_score,gte_score,sbert_score,openai_score,section_score,requirement_score,llm_score,final_score,pair_type,cv_group,jd_group,job_title,embedding_model
+resume_custom_03453,jd_custom_00001,22.6276,,,,87.9239,,86.7187,23.3333,,55.1509,likely_good,Software Development,Technology,JavaScript Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03230,jd_custom_00001,20.9058,,,,87.0966,,86.0657,12.2222,,51.5726,likely_good,Software Development,Technology,JavaScript Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03226,jd_custom_00001,21.3968,,,,86.2545,,84.6141,28.0556,,55.0802,likely_good,Software Development,Technology,JavaScript Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03516,jd_custom_00001,21.5671,,,,83.0942,,82.5879,16.3889,,50.9095,likely_good,Software Development,Technology,JavaScript Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03530,jd_custom_00002,20.2112,,,,76.1459,,76.1459,24.8649,,49.342,likely_good,Software Development,Technology,Flutter Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03398,jd_custom_00002,21.1702,,,,81.1771,,81.1771,24.7297,,52.0635,likely_good,Software Development,Technology,Flutter Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03497,jd_custom_00002,16.14,,,,82.2095,,82.2095,23.6487,,51.0519,likely_good,Software Development,Technology,Flutter Developer,sentence-transformers/all-MiniLM-L6-v2
+resume_custom_03235,jd_custom_00002,17.0976,,,,80.2293,,80.2293,23.6487,,50.3012,likely_good,Software Development,Technology,Flutter Developer,sentence-transformers/all-MiniLM-L6-v2

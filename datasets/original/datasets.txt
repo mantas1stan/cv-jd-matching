@@ -1,0 +1,6 @@
+JOB datasets:
+https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom
+https://www.kaggle.com/datasets/kshitizregmi/jobs-and-job-description
+Resume datasets:
+https://www.kaggle.com/datasets/wahib04/multilabel-resume-dataset
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset

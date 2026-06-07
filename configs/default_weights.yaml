@@ -1,0 +1,6 @@
+weights:
+  must_have_requirement_coverage: 0.45
+  experience_or_seniority_match: 0.20
+  responsibility_alignment: 0.15
+  nice_to_have_coverage: 0.10
+  domain_context_alignment: 0.10

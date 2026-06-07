@@ -1,0 +1,18 @@
+[project]
+name = "uni-cv-jd"
+version = "0.1.0"
+description = "Research-oriented CV to job description matching framework."
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "scipy",
+  "PyYAML",
+]
+
+[tool.setuptools.packages.find]
+include = ["src*"]
+
+[tool.ruff]
+line-length = 100

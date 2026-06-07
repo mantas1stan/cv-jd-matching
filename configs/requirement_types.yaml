@@ -1,0 +1,16 @@
+requirement_types:
+  must_have:
+    description: Hard requirements expected from a viable candidate.
+    examples: ["SQL", "Python", "Bachelor's degree"]
+  experience:
+    description: Years of experience, seniority, or role-level expectations.
+    examples: ["3+ years experience", "senior analyst experience"]
+  responsibility:
+    description: Work activities the candidate should be able to perform.
+    examples: ["build dashboards", "communicate with stakeholders"]
+  nice_to_have:
+    description: Optional or bonus requirements.
+    examples: ["Power BI is a plus", "cloud experience preferred"]
+  domain:
+    description: Industry, business context, tools, and environment fit.
+    examples: ["fintech", "healthcare", "e-commerce"]

@@ -1,0 +1,21 @@
+cv_id,jd_id,tfidf_score,bge_score,e5_score,gte_score,sbert_score,section_score,requirement_score,llm_score,method_errors,final_score,pair_type,job_title,cv_group,jd_group,previous_tfidf_score,previous_sbert_score,previous_final_score,fit_category
+resume_custom_00011,jd_custom_02131,9.1336,,,,,,,0.0,,4.5668,hard_negative,Weekend John’s Creek Security Officers Job in Georgia US body { margin:px; overflow: visible !important; } #ejb_header { color: #; font-family: Verdana,Cybersecurity,Customer Support,9.4434,47.7909,28.6172,poor fit
+resume_custom_02467,jd_custom_00409,5.9097,,,,,,,80.0,,42.9549,hard_negative,Software Engineer,Project Management,Technology,7.7443,45.5295,26.6369,possible fit
+resume_custom_00699,jd_custom_01734,7.8454,,,,,,,80.0,,43.9227,hard_negative,PHP Developer,Data and Database,Technology,7.6517,42.5351,25.0934,possible fit
+resume_custom_04288,jd_custom_00223,11.818,,,,,,,80.0,,45.909,hard_negative,Software Engineer,Banking,Technology,9.7672,20.1837,14.9755,possible fit
+resume_custom_05664,jd_custom_02781,8.646,,,,,,,90.0,,49.323,hard_negative,Bilingual Immigration Attorney (Spanish/English) Job in Falls Church,Information Technology,Legal,15.9703,36.8767,26.4235,possible fit
+resume_custom_05510,jd_custom_02131,8.3526,,,,,,,80.0,,44.1763,likely_good,Weekend John’s Creek Security Officers Job in Georgia US body { margin:px; overflow: visible !important; } #ejb_header { color: #; font-family: Verdana,Hr,Customer Support,6.6417,35.1705,20.9061,possible fit
+resume_custom_03537,jd_custom_00409,10.3601,,,,,,,90.0,,50.1801,likely_good,Software Engineer,Software Development,Technology,7.7975,42.068,24.9328,possible fit
+resume_custom_03401,jd_custom_01734,8.3285,,,,,,,80.0,,44.1643,likely_good,PHP Developer,Software Development,Technology,10.4786,48.5521,29.5154,possible fit
+resume_custom_03202,jd_custom_00223,17.8994,,,,,,,90.0,,53.9497,likely_good,Software Engineer,Software Development,Technology,11.4966,36.8908,24.1937,possible fit
+resume_custom_03745,jd_custom_02781,4.2386,,,,,,,80.0,,42.1193,likely_good,Bilingual Immigration Attorney (Spanish/English) Job in Falls Church,Advocate,Legal,9.2044,31.1468,20.1756,possible fit
+resume_custom_02384,jd_custom_02131,4.3085,,,,,,,80.0,,42.1542,medium,Weekend John’s Creek Security Officers Job in Georgia US body { margin:px; overflow: visible !important; } #ejb_header { color: #; font-family: Verdana,Project Management,Customer Support,2.3406,16.871,9.6058,possible fit
+resume_custom_01775,jd_custom_00409,5.5738,,,,,,,80.0,,42.7869,medium,Software Engineer,Other Technology,Technology,2.9269,28.5753,15.7511,possible fit
+resume_custom_01611,jd_custom_01734,1.536,,,,,,,80.0,,40.768,medium,PHP Developer,Infrastructure and Systems,Technology,1.7773,27.036,14.4066,possible fit
+resume_custom_01536,jd_custom_00223,9.0291,,,,,,,90.0,,49.5145,medium,Software Engineer,Infrastructure and Systems,Technology,4.7013,24.7226,14.712,possible fit
+resume_custom_02511,jd_custom_02781,2.1035,,,,,,,80.0,,41.0517,medium,Bilingual Immigration Attorney (Spanish/English) Job in Falls Church,Project Management,Legal,1.6157,15.117,8.3663,possible fit
+resume_custom_01923,jd_custom_02131,5.9895,,,,,,,80.0,,42.9947,random_negative,Weekend John’s Creek Security Officers Job in Georgia US body { margin:px; overflow: visible !important; } #ejb_header { color: #; font-family: Verdana,Other Technology,Customer Support,2.8449,41.639,22.2419,possible fit
+resume_custom_00003,jd_custom_00409,5.1511,,,,,,,80.0,,42.5755,random_negative,Software Engineer,Cybersecurity,Technology,3.1046,32.4544,17.7795,possible fit
+resume_custom_00919,jd_custom_01734,2.419,,,,,,,90.0,,46.2095,random_negative,PHP Developer,Data and Database,Technology,1.3341,33.1453,17.2397,possible fit
+resume_custom_05307,jd_custom_00223,3.1395,,,,,,,80.0,,41.5697,random_negative,Software Engineer,Fitness,Technology,2.1248,10.8042,6.4645,possible fit
+resume_custom_05558,jd_custom_02781,1.6292,,,,,,,80.0,,40.8146,random_negative,Bilingual Immigration Attorney (Spanish/English) Job in Falls Church,Information Technology,Legal,1.4619,27.6604,14.5612,possible fit
